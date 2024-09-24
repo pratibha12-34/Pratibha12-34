@@ -1,0 +1,16 @@
+## Hi there 👋
+
+<!--
+**pratibha12-34/Pratibha12-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...Autsim screening and child detection
+- 🌱 I’m currently learning ... Deep learning ,LLM models,nlp models
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...pratibha122005@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
